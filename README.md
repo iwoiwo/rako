@@ -1,1 +1,1 @@
-CMS testing project
+testing project
